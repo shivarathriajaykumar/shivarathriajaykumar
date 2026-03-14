@@ -1,5 +1,5 @@
 ## Hi there 👋# 💫 About Me:
-I'm a fresher <br>Currently pursuing btech 4 th year<br>I'm specialized in python full stack development<br>I have internship certificate from Google ( python)<br>I have 2 projects <br>1 .face recognition system in attendance management<br>2 . ecommerce platform <br>Intrested to collaborate with top companies that helps my career <br>
+I'm a fresher <br>Currently pursuing btech 4 th year<br>I'm specialized in python full stack development<br>I have internship certificate from Google ( python)<br> recently I have done 2 major projects <br>1 .face recognition system in attendance management<br>2 . ecommerce platform <br>Intrested to collaborate with top companies that helps my career <br>
 
 
 ## 🌐 Socials:
